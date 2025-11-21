@@ -5,15 +5,15 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## 📊 Statistics
 
 - **Total Problems Solved:** 1
-- **Easy:** 1 🟢
-- **Medium:** 0 🟡
+- **Easy:** 0 🟢
+- **Medium:** 1 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
-| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟢 Easy | Python3 | 2025-11-21 |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | Python3 | 2025-11-21 |
 
 ---
 
