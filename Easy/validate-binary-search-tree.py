@@ -23,3 +23,4 @@ class Solution:
 
         return check(root, float('-inf'), float('inf'))
 
+
