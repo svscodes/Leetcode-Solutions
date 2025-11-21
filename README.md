@@ -5,15 +5,15 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## 📊 Statistics
 
 - **Total Problems Solved:** 1
-- **Easy:** 1 🟢
-- **Medium:** 0 🟡
+- **Easy:** 0 🟢
+- **Medium:** 1 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
-| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟢 Easy | Python3 | 2025-11-21 |
+| [78. Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | Python3 | 2025-11-21 |
 
 ---
 
