@@ -13,7 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
-| [78. Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | Python3 | 2025-11-21 |
+| [Unknown Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1773297607/) | 🟡 Medium | Choose a type | 2025-11-21 |
 
 ---
 
