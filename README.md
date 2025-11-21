@@ -13,7 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
-| [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | Choose a type | 2025-11-21 |
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | 🟡 Medium | Choose a type | 2025-11-21 |
 
 ---
 
