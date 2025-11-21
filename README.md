@@ -13,7 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
-| [Unknown Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1773297607/) | 🟡 Medium | Choose a type | 2025-11-21 |
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | Choose a type | 2025-11-21 |
 
 ---
 
