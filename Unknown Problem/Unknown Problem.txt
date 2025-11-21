@@ -1,0 +1,11 @@
+/*
+ * Problem: Unknown Problem
+ * Difficulty: Medium
+ * Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1773297607/
+ * Language: Choose a type
+ * Date: 2025-11-21
+ */
+
+class Solution:
+    def letterCombinations(self, digits: str) -> List[str]:
+        
