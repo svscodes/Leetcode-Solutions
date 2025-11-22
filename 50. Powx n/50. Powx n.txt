@@ -1,0 +1,25 @@
+/*
+ * Problem: 50. Pow(x, n)
+ * Difficulty: Easy
+ * Link: https://leetcode.com/problems/powx-n/description/
+ * Language: Choose a type
+ * Date: 2025-11-22
+ */
+
+class Solution:
+    def myPow(self, x: float, n: int) -> float:
+        if n==0:
+            return 1
+        elif n==1:
+            return x 
+        if n<0:
+            x = 1/x
+            n= -n
+        half_Pow = self.myPow(x,n//2)
+        if n%2 ==0:
+            return half_Pow * half_Pow
+        else:
+            return half_Pow * half_Pow*x
+
+        
+        
