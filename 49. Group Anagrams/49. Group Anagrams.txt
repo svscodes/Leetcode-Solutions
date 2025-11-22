@@ -1,6 +1,6 @@
 /*
  * Problem: 49. Group Anagrams
- * Difficulty: Easy
+ * Difficulty: Medium
  * Link: https://leetcode.com/problems/group-anagrams/description/
  * Language: Choose a type
  * Date: 2025-11-22
