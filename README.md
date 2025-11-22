@@ -5,15 +5,15 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## 📊 Statistics
 
 - **Total Problems Solved:** 1
-- **Easy:** 1 🟢
-- **Medium:** 0 🟡
+- **Easy:** 0 🟢
+- **Medium:** 1 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
-| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | 🟢 Easy | Choose a type | 2025-11-22 |
+| [Unknown Problem](https://leetcode.com/problems/word-search/submissions/) | 🟡 Medium | Python3 | 2025-11-22 |
 
 ---
 
