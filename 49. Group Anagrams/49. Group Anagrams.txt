@@ -1,0 +1,27 @@
+/*
+ * Problem: 49. Group Anagrams
+ * Difficulty: Easy
+ * Link: https://leetcode.com/problems/group-anagrams/description/
+ * Language: Choose a type
+ * Date: 2025-11-22
+ */
+
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        # anagramDict = defaultdict(list)
+        # for s in strs:
+        #     count = [0] * 26
+        #     for letter in s:
+        #         count[ord(letter) - ord("a")] += 1
+
+        #     anagramDict[tuple(count)].append(s)
+
+        # return list(anagramDict.values())
+        anagramMap = defaultdict(list)
+
+        for word in strs:
+            sortedWord = sorted(word)
+            anagramMap[tuple(sortedWord)].append(word)
+
+        return list(anagramMap.values())
+        
