@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 3
+- **Total Problems Solved:** 4
 - **Easy:** 2 🟢
-- **Medium:** 1 🟡
+- **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟢 Easy | Choose a type | 2025-11-22 |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | 🟢 Easy | Choose a type | 2025-11-22 |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | python3 | 2025-11-22 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | Choose a type | 2025-11-22 |
 
 ---
