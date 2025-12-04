@@ -1,7 +1,7 @@
 #
 # Problem: 23. Merge k Sorted Lists
 # Difficulty: Hard
-# Link: https://leetcode.com/problems/merge-k-sorted-lists/
+# Link: https://leetcode.com/problems/merge-k-sorted-lists/description/
 # Language: python3
 # Date: 2025-12-04
 
