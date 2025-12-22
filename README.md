@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 8
+- **Total Problems Solved:** 9
 - **Easy:** 2 🟢
-- **Medium:** 4 🟡
+- **Medium:** 5 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | python3 | 2025-11-22 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | Choose a type | 2025-11-22 |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | 🟡 Medium | python3 | 2025-11-26 |
+| [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | 🟡 Medium | python3 | 2025-12-22 |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | python3 | 2025-12-04 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | python3 | 2025-11-22 |
 
