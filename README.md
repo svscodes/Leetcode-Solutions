@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 10
-- **Easy:** 3 🟢
+- **Total Problems Solved:** 11
+- **Easy:** 4 🟢
 - **Medium:** 5 🟡
 - **Hard:** 2 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | 🟢 Easy | python3 | 2025-12-31 |
+| [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/submissions/1870140871/) | 🟢 Easy | python3 | 2025-12-31 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟢 Easy | Choose a type | 2025-11-22 |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | 🟢 Easy | Choose a type | 2025-11-22 |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | 🟡 Medium | python3 | 2025-12-04 |
