@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 15
-- **Easy:** 6 🟢
+- **Total Problems Solved:** 16
+- **Easy:** 7 🟢
 - **Medium:** 7 🟡
 - **Hard:** 2 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/submissions/1873261835/) | 🟢 Easy | python3 | 2026-01-03 |
 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | 🟢 Easy | python3 | 2025-12-31 |
 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/submissions/1870140871/) | 🟢 Easy | python3 | 2025-12-31 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟢 Easy | Choose a type | 2025-11-22 |
