@@ -1,7 +1,7 @@
 #
 # Problem: 1137. N-th Tribonacci Number
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/n-th-tribonacci-number/submissions/1873261835/
+# Link: https://leetcode.com/problems/n-th-tribonacci-number/
 # Language: python3
 # Date: 2026-01-03
 
