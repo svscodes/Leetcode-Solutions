@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 16
+- **Total Problems Solved:** 17
 - **Easy:** 7 🟢
-- **Medium:** 7 🟡
+- **Medium:** 8 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -21,6 +21,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/submissions/1871064295/) | 🟢 Easy | python3 | 2026-01-01 |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/submissions/1871069343/) | 🟢 Easy | python3 | 2026-01-01 |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | 🟡 Medium | python3 | 2025-12-04 |
+| [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1874423632/) | 🟡 Medium | python3 | 2026-01-04 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1872128606/) | 🟡 Medium | python3 | 2026-01-02 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | python3 | 2025-11-22 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | Choose a type | 2025-11-22 |
