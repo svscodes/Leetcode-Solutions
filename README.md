@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 18
+- **Total Problems Solved:** 19
 - **Easy:** 7 🟢
-- **Medium:** 9 🟡
+- **Medium:** 10 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | 🟡 Medium | python3 | 2025-11-26 |
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | 🟡 Medium | python3 | 2025-12-22 |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | 🟡 Medium | python3 | 2026-01-13 |
+| [Unknown Problem](https://leetcode.com/problems/coin-change/submissions/1892392214/) | 🟡 Medium | python3 | 2026-01-21 |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | python3 | 2025-12-04 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | python3 | 2025-11-22 |
 
