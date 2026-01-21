@@ -1,46 +1,20 @@
 #
 # Problem: Unknown Problem
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/word-search/submissions/
-# Language: Python3
-# Date: 2025-11-22
+# Link: https://leetcode.com/problems/coin-change/submissions/1892392214/
+# Language: python3
+# Date: 2026-01-21
 
 
 class Solution:
-    def exist(self, board: List[List[str]], word: str) -> bool:
-        row = len(board)
-        col = len(board[0])
-        path = set()
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        dp = [amount + 1] * (amount + 1)
+        dp[0] = 0
 
-        def dfs(r, c, i):
-            if i == len(word):
-                return True
-            if (
-                r < 0
-                or c < 0
-                or r >= row
-                or c >= col
-                or word[i] != board[r][c]
-                or (r, c) in path
-            ):
-                return False
+        for a in range(1, amount + 1):
+            for c in coins:
+                if a - c >= 0:
+                    dp[a] = min(dp[a], 1 + dp[a - c])
+            print(a, dp[a])
 
-            path.add((r, c))
-            res = (
-                dfs(r + 1, c, i + 1)
-                or dfs(r, c + 1, i + 1)
-                or dfs(r - 1, c, i + 1)
-                or dfs(r, c - 1, i + 1)
-            )
-            path.remove((r,c))
-
-            return res
-
-        for r in range(row):
-            for c in range(col):
-                if dfs(r, c, 0):
-                    return True
-
-        return False
-
-
+        return dp[amount] if dp[amount] != amount + 1 else -1
